@@ -24,6 +24,10 @@ $ npm run start:prod
 
 App will be running [on port 5000](http://localhost:5000/)
 
+## Using Postman:
+
+![Using Postman](/assets/emails%2BnestJS.png)
+
 ## Links:
 
 - [Original tutorial](https://notiz.dev/blog/send-emails-with-nestjs)

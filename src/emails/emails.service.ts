@@ -13,7 +13,7 @@ export class EmailsService {
     const emailSent = await this.mailerService.sendMail({
       to: email,
       // from: '"Support Team" <support@example.com>', // override default from
-      subject: 'Welcome to Nice App! Confirm your Email',
+      subject: 'Test email from NestJS!',
       template: 'confirmation', // `.hbs` extension is appended automatically
       context: {
         // ✏️ filling curly brackets with content
