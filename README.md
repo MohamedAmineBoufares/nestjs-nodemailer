@@ -32,3 +32,4 @@ App will be running [on port 5000](http://localhost:5000/)
 
 - [Original tutorial](https://notiz.dev/blog/send-emails-with-nestjs)
 - [Invalid login: 535-5.7.8 Username and Password not accepted](https://stackoverflow.com/questions/59188483/error-invalid-login-535-5-7-8-username-and-password-not-accepted)
+- [Get a gmail password for nodemailer](https://stackoverflow.com/questions/45478293/username-and-password-not-accepted-when-using-nodemailer)
